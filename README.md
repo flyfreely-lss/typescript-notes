@@ -23,3 +23,10 @@ TypeScript相关记录，包括阅读笔记，问题记录等相关问题，欢�
 18. 命名空间
 19. 编写声明文件
 20. tsconfig.json文件配置
+
+## 相关资料整理
+
+1. Typescript 设计目标: https://github.com/Microsoft/TypeScript/wiki/TypeScript-Design-Goals
+2. Typescript 官网: https://www.tslang.cn/
+3. 深入理解 Typescript: https://jkchao.github.io/typescript-book-chinese/
+4. 深入浅出TypeScript：从基础知识到类型编程: https://www.yuque.com/cuggz/ts
