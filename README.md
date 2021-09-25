@@ -5,7 +5,7 @@ TypeScript相关记录，包括阅读笔记，问题记录等相关问题，欢�
 
 1. [TypeScript 数据类型](https://github.com/flyfreely-lss/typescript-notes/blob/main/notes/1-TypeScript%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 2. [枚举](https://github.com/flyfreely-lss/typescript-notes/blob/main/notes/2-%E6%9E%9A%E4%B8%BE.md)
-3. 接口
+3. [接口](https://github.com/flyfreely-lss/typescript-notes/blob/main/notes/3-%E6%8E%A5%E5%8F%A3.md)
 4. 类
 5. 函数
 6. 泛型（generic）
